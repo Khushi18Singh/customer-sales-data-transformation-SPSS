@@ -66,6 +66,7 @@ Used Merge Node Merged: Aggregated data Category flags Zone category data Used R
 📈 Final Output
 
 Output: https://github.com/Khushi18Singh/customer-sales-data-transformation-SPSS/blob/main/SPSS_Modeler_Workflow.png.jpeg
+
 The final dataset includes: Total Sales & Profit Record Count Product Category Flags Profit Margin Order Priority Level Zone Category (North, South, East, West) This dataset is fully cleaned, enriched, and analysis-ready.
 
 ✅ Learning Outcomes
